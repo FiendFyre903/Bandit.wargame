@@ -27,4 +27,6 @@ _The password for the next level is stored in a file called readme located in th
 1. **ls** </br>
   The ls command is used to list the contents of a directory, in this case the home directory.
 
-NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
+   NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
+
+   rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi

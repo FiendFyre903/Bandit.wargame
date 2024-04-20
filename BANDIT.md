@@ -3,7 +3,6 @@
 This writeup details my approach to solving bandit questions and commands used. <br>
 -Arnav Sahu
 
-# I will finish the writeup by 12th, i have done the levels already
 ---
 ## Connecting to server
 <b>LEVEL GOAL</b> </br>
